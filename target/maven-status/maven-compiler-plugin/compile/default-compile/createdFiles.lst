@@ -1,0 +1,5 @@
+com\codingchallenge\Stocks\StocksApplication.class
+com\codingchallenge\Stocks\StockRecord.class
+com\codingchallenge\Stocks\StockService.class
+com\codingchallenge\Stocks\StockRepository.class
+com\codingchallenge\Stocks\StocksController.class
